@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'olympicdata2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BE6247C08174B71997427C22E0CD78A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9361AAB8D0BA40E697E1B02404A31969 }}
